@@ -4,3 +4,4 @@
 * Projects
 * Working with data and fun mini-projects
 * Advanced DAX calculations
+* Graphing and dashboard Design

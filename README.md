@@ -2,6 +2,7 @@
 
 * Projects
 * Advanced DAX calculations
+* Graphing and dashboard Design
 
 
   

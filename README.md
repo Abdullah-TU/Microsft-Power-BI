@@ -1,5 +1,5 @@
-# 📖 Microsoft Power BI 
- Python Learning ✍️
+# 📖 Microsoft Power BI 📈
+ Python Learning
 * Projects
 * Advanced DAX calculations
 * Graphing and dashboard Design
